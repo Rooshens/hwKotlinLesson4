@@ -1,0 +1,2 @@
+rootProject.name = "AsianCuisine"
+include ':app'
